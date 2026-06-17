@@ -1,3 +1,7 @@
+
+Built a B2B Email Intelligence Agent dashboard using React, Tailwind, and Gemini API that analyzes incoming emails and extracts structured business insights in strict JSON format. It includes lead scoring, spam filtering, and automatic sales reply generation for high-intent inquiries.
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
